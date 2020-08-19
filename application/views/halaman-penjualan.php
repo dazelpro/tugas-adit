@@ -62,7 +62,6 @@
 			</table>
 		</form>
 		<br>
-		<div id="pagination-container"></div>
 		<table class="table">
 			<thead>
 				<tr>
@@ -91,6 +90,7 @@
 				<?php endforeach; ?>
 			</tbody>
 		</table>
+		<div id="pagination-container"></div>
 	</div>
 	<script src="<?php echo base_url('assets/js/jquery.min.js');?>"></script>
 	<script src="<?php echo base_url('assets/js/jquery.simplePagination.js');?>"></script>
