@@ -44,7 +44,7 @@
 		<br>
 		<h2>Data Penjualan</h2>
 		<br>
-		<form action="<?php echo base_url('filter/');?>" method="POST">
+		<form action="<?php echo base_url('/');?>" method="POST">
 			<table width="100%" border="0">
 				<tr>
 					<td width="10%">Tgl. Penjualan</td>
